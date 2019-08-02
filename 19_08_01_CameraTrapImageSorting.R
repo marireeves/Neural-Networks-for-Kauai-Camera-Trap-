@@ -1,3 +1,7 @@
+#WARNING DOES NOT WORK...FAILS AT FIT SECTION WITH THE FOLLOWING ERROR:
+# Error in py_call_impl(callable, dots$args, dots$keywords) : 
+ # ImportError: Could not import PIL.Image. The use of `array_to_img` req
+
 ---
   title: "Deep Neural Network Photo Analysis"
 author:  "[Mari K Reeves](https://github.com/marireeves)"
